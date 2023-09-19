@@ -1,9 +1,12 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
-    <head>
-        <title>Example</title>
-    </head>
-    <body>
-        <p>hello world from JDCP.</p>
-    </body>
-</html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World! from JDCP";
+?>
+
+</body>
+</html> 
